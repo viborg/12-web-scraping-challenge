@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Mars Data</title>
+    <!-- Bring in our bootstrap stylesheet -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <!-- Mars Data -->
+    <div class="row">
+      <div class="col-md-12">
+		<h5>Nasa Mars News</h5>
+			<p>
+				news_title = {{Mars_data["nasa_mars_news_title"]}}
+				news_p = {{Mars_data["nasa_mars_news_p"]}}
+			</p>
+		<h5>JBP Mars Space Image</h5>
+			<p>
+				jpl_mars_url = {{Mars_data["jpl_mars_site_link"]}}
+			</p>
+		<h5>Mars Weather</h5>
+			<p>
+				twitter_mars_weather = {{Mars_data["twitter_mars_weather"]}}
+			</p>
+		<h5>Mars Facts</h5>
+			<p>
+				mars_facts_html = {{Mars_data["mars_facts_html"]}}
+			</p>
+		<h5>Mars Hemhispheres</h5>
+			<p>
+				{{Mars_data["hemisphere_image_urls"][0]["title"]}}
+				{{Mars_data["hemisphere_image_urls"][0]["img_url"]}}
+				{{Mars_data["hemisphere_image_urls"][1]["title"]}}
+				{{Mars_data["hemisphere_image_urls"][1]["img_url"]}}
+				{{Mars_data["hemisphere_image_urls"][2]["title"]}}
+				{{Mars_data["hemisphere_image_urls"][2]["img_url"]}}
+				{{Mars_data["hemisphere_image_urls"][3]["title"]}}
+				{{Mars_data["hemisphere_image_urls"][3]["img_url"]}}
+			</p>
+	  </div>
+    </div>
+  </div>
+    <!-- The bootstrap documentation says that many components require the following lines. -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>

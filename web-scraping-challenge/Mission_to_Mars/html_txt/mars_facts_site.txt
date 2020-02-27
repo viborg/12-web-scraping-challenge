@@ -1,0 +1,1459 @@
+<html lang="en-US">
+ <head>
+  <script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101">
+  </script>
+  <script async="" src="https://graph.facebook.com/?callback=WPCOMSharing.update_facebook_count&amp;ids=https%3A%2F%2Fspace-facts.com%2Fmars%2F&amp;_=1582789807478">
+  </script>
+  <script async="" src="https://api.pinterest.com/v1/urls/count.json?callback=WPCOMSharing.update_pinterest_count&amp;url=https%3A%2F%2Fspace-facts.com%2Fmars%2F&amp;_=1582789807477">
+  </script>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://gmpg.org/xfn/11" rel="profile"/>
+  <link href="https://space-facts.com/wp/xmlrpc.php" rel="pingback"/>
+  <script src="https://partner.googleadservices.com/gampad/cookie.js?domain=space-facts.com&amp;callback=_gfp_s_&amp;client=ca-pub-4251889121233823">
+  </script>
+  <script id="google_shimpl" src="https://pagead2.googlesyndication.com/pagead/js/r20200224/r20190131/show_ads_impl_fy2019.js">
+  </script>
+  <script>
+   function fvmuag(){if(navigator.userAgent.match(/x11.*fox\/54|oid\s4.*xus.*ome\/62|oobot|ighth|tmetr|eadles|ingdo/i))return!1;if(navigator.userAgent.match(/x11.*ome\/75\.0\.3770\.100/i)){var e=screen.width,t=screen.height;if("number"==typeof e&&"number"==typeof t&&862==t&&1367==e)return!1}return!0}
+  </script>
+  <title>
+   Mars Facts - Interesting Facts about Planet Mars
+  </title>
+  <!-- Jetpack Site Verification Tags -->
+  <meta content="OI26qBRJ2SI673vDUn_KgAd_H89WIX3IEgf6TZbhgDs" name="google-site-verification"/>
+  <meta content="988097676DFC89A04403B1F262C0F731" name="msvalidate.01"/>
+  <!-- This site is optimized with the Yoast SEO plugin v13.1 - https://yoast.com/wordpress/plugins/seo/ -->
+  <meta content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
+  <link href="https://space-facts.com/mars/" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Mars Facts - Interesting Facts about Planet Mars" property="og:title"/>
+  <meta content="Mars is the fourth planet from the Sun and is the second smallest planet in the solar system. Named after the Roman god of war," property="og:description"/>
+  <meta content="https://space-facts.com/mars/" property="og:url"/>
+  <meta content="Space Facts" property="og:site_name"/>
+  <meta content="https://space-facts.com/wp-content/uploads/mars.jpg" property="og:image"/>
+  <meta content="https://space-facts.com/wp-content/uploads/mars.jpg" property="og:image:secure_url"/>
+  <meta content="700" property="og:image:width"/>
+  <meta content="700" property="og:image:height"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Mars is the fourth planet from the Sun and is the second smallest planet in the solar system. Named after the Roman god of war," name="twitter:description"/>
+  <meta content="Mars Facts - Interesting Facts about Planet Mars" name="twitter:title"/>
+  <meta content="https://space-facts.com/wp-content/uploads/mars.jpg" name="twitter:image"/>
+  <script class="yoast-schema-graph yoast-schema-graph--main" type="application/ld+json">
+   {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://space-facts.com/#organization","name":"Space Facts","url":"https://space-facts.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://space-facts.com/#logo","inLanguage":"en-US","url":"https://space-facts.com/wp-content/uploads/space-facts-logo.png","width":184,"height":80,"caption":"Space Facts"},"image":{"@id":"https://space-facts.com/#logo"}},{"@type":"WebSite","@id":"https://space-facts.com/#website","url":"https://space-facts.com/","name":"Space Facts","inLanguage":"en-US","publisher":{"@id":"https://space-facts.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://space-facts.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://space-facts.com/mars/#primaryimage","inLanguage":"en-US","url":"https://space-facts.com/wp-content/uploads/mars.jpg","width":700,"height":700,"caption":"Mars"},{"@type":"WebPage","@id":"https://space-facts.com/mars/#webpage","url":"https://space-facts.com/mars/","name":"Mars Facts - Interesting Facts about Planet Mars","isPartOf":{"@id":"https://space-facts.com/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://space-facts.com/mars/#primaryimage"},"datePublished":"2015-10-20T13:08:28+00:00","dateModified":"2020-02-14T14:14:44+00:00"}]}
+  </script>
+  <!-- / Yoast SEO plugin. -->
+  <link href="https://space-facts.com/wp-content/uploads/cache/fvm/1581516212/out/header-080d9779bfe50ef68a84668bcc467534b281af08.min.css" id="fvm-header-0-css" media="all" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+   /*  */
+var related_posts_js_options = {"post_heading":"h4"};
+/*  */
+  </script>
+  <script src="https://space-facts.com/wp-content/uploads/cache/fvm/1581516212/out/header-64dc675cc930b352b86b88e7362686078e91f4c7.min.js" type="text/javascript">
+  </script>
+  <!--[if lt IE 9]> <script type='text/javascript' src='https://space-facts.com/wp-content/themes/gridbox/assets/js/html5shiv.min.js'></script> <![endif]-->
+  <script src="https://space-facts.com/wp-content/uploads/cache/fvm/1581516212/out/header-37b5993e5e8c91ef63938269e7d6f4b09177b0c4.min.js" type="text/javascript">
+  </script>
+  <link href="https://space-facts.com/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://space-facts.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspace-facts.com%2Fmars%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="https://space-facts.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspace-facts.com%2Fmars%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <!--[if lt IE 9]><link rel="stylesheet" href="https://space-facts.com/wp-content/plugins/lightweight-grid-columns/css/ie.min.css" /> <![endif]-->
+  <style type="text/css">
+   img#wpstats{display:none}
+  </style>
+  <link href="https://space-facts.com/wp-content/uploads/favicon-50x50.png" rel="icon" sizes="32x32"/>
+  <link href="https://space-facts.com/wp-content/uploads/favicon.png" rel="icon" sizes="192x192"/>
+  <link href="https://space-facts.com/wp-content/uploads/favicon.png" rel="apple-touch-icon-precomposed"/>
+  <meta content="https://space-facts.com/wp-content/uploads/favicon.png" name="msapplication-TileImage"/>
+  <style id="wp-custom-css" type="text/css">
+   /* Logo + Header Background */ .site-header { background: #29416dff } .site-branding { margin: .5em 0; } @media only screen and (max-width: 734px) { .site-branding { display: none; } } /* Design Edits */ .ad-header { margin: -1.3em auto 1.2em auto; max-width:900px; } @media only screen and (max-width: 734px) { .ad-header { display: none; } } .ad-bottom { margin: -2em auto 1em auto; max-width:400px; } @media only screen and (min-width: 55em) { .profiles { display: none; } } .content-single li { padding: 0 0 .6em; } .content-single { padding-right: 2em; } .entry-content a { /* color: #ce3030;*/ /* background: #ffffb3;*/ text-decoration: none; } #recent-posts-2 ul { list-style: circle; padding: 0 0 0 1.25em; } .wp-block-yoast-faq-block p { margin-top: 0.1em; } @media only screen and (max-width: 55em) { .content-single { padding: 0; } .container { padding-left: 1em; padding-right: 1em; } } /* Centre Jetpack Sharing Buttons */ .sd-content { text-align: center; } #jp-relatedposts { padding-top: 0em; } /* Planet Background */ .black-background { background-color: #000; color: #CECECE; } .grey-background-grid { background-color: #E6E6E6; overflow: hidden; } .grey-background-grid img { border-radius: 50%; } .grey-background-grid img:hover{ filter: invert(0.8) contrast(1.1) hue-rotate(180deg); } .grey-background-grid h3 { font-size: 22px; } .black-background-grid { background-color: #000; color: #f0f0f0; /* float: left; */ overflow: hidden; } .black-background-grid a { color: #ff5e5e; } .black-background-grid a:hover { color: #4a302d; } .black-background-grid h3 { font-size: 22px; } .black-background-grid img:hover{ /* -webkit-transform: scale(1.08); -moz-transform: scale(1.1); -ms-transform: scale(1.1); -o-transform: scale(1.1); transform: scale(1.1); */ opacity: 0.7; } /* Source Box Styling */ .sources { color: #8C8C8C; background: #E6E6E6; font-size: 12px; padding: 12px; margin-bottom: 12px; } /* Quote Styling */ .quote { color: #4c4c4c; background: #E6E6E6; font-style: italic; padding: 0.2em 1.2em; } .quote ol { list-style-type: lower-alpha; margin: 0 0 0.8em; } /* Blue Table */ .blue-table { background-color: #17274E; color: #CECECE; /* width: inherit; */ line-height: 1.2em; font-size: 15px; } .blue-table thead tr th { background-color: #17274E; color: #FFFFFF; border-bottom: 0; } .blue-table tbody td { border-top: 0; } .blue-table tbody td.column-1 { padding-left: 10px; } /* Diagram Background */ .diagram-background { background-color: #17274E; /* padding-bottom: 10px; */ color: #CECECE; } .diagram-background figcaption { color: #CECECE; } /* Diagram Text */ .mercury { color: #969599; font-weight: bold; } .venus { color: #ded4b8; font-weight: bold; } .earth { color: #6e75a0; font-weight: bold; } .earth-s { color: #6e75a0; } .mars { color: #d36540; font-weight: bold; } .mars-s { color: #d36540; } .jupiter { color: #e8b28e; font-weight: bold; } .jupiter-s { color: #e8b28e; } .saturn { color: #d0a673; font-weight: bold; } .uranus { color: #d1e7e9; font-weight: bold; } .neptune { color: #6491da; font-weight: bold; } .ceres { color: #90847d; font-weight: bold; } .pluto { color: #d0ab88; font-weight: bold; } .haumea { color: #6d6d6f; font-weight: bold; } .makemake { color: #746260; font-weight: bold; } .eris { color: #c4bfba; font-weight: bold; } .sun { color: #fff6d5; font-weight: bold; } .moon { color: #aba4a0; font-weight: bold; } .phobos { color: #9b7861; font-weight: bold; } .deimos { color: #b99b7f; font-weight: bold; } .io { color: #d9ca62; font-weight: bold; } .europa { color: #eee3dd; font-weight: bold; } .ganymede { color: #8f887c; font-weight: bold; } .callisto { color: #686a61; font-weight: bold; } .enceladus { color: #e1e6f2; font-weight: bold; } .rhea { color: #8a8a8a; font-weight: bold; } .titan { color: #edc863; font-weight: bold; } .iapetus { color: #b3af89; font-weight: bold; } .miranda { color: #af999a; font-weight: bold; } .titania { color: #998a7e; font-weight: bold; } .triton { color: #908884; font-weight: bold; } /* Planet Orbits Styling */ .full-width-orbit { background-color: #12243e; padding-bottom: 10px; color: #CECECE; } .full-width-orbit p { margin: .4em 0 .8em; } #speed-width { max-width: 800px; } #speed-width2 { max-width: 400px; }
+  </style>
+  <style type="text/css">
+   /** Mega Menu CSS: fs **/
+  </style>
+  <script>
+   window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-32348920-1', 'auto');
+ga('send', 'pageview');
+  </script>
+  <script async="" src="https://www.google-analytics.com/analytics.js">
+  </script>
+  <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+  </script>
+  <script>
+   (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-4251889121233823",
+          enable_page_level_ads: true
+     });
+  </script>
+  <link as="script" href="https://adservice.google.com/adsid/integrator.js?domain=space-facts.com" rel="preload"/>
+  <script src="https://adservice.google.com/adsid/integrator.js?domain=space-facts.com" type="text/javascript">
+  </script>
+ </head>
+ <body class="page-template-default page page-id-7 wp-custom-logo wp-embed-responsive mega-menu-primary post-layout-three-columns post-layout-columns" data-rsssl="1">
+  <div class="hfeed site" id="page">
+   <a class="skip-link screen-reader-text" href="#content">
+    Skip to content
+   </a>
+   <header class="site-header clearfix" id="masthead" role="banner">
+    <div class="header-main container clearfix">
+     <div class="site-branding clearfix" id="logo">
+      <a class="custom-logo-link" href="https://space-facts.com/" rel="home">
+       <img alt="Space Facts" class="custom-logo" height="80" src="https://space-facts.com/wp-content/uploads/space-facts-logo.png" width="184"/>
+      </a>
+      <p class="site-title">
+       <a href="https://space-facts.com/" rel="home">
+        Space Facts
+       </a>
+      </p>
+     </div>
+     <!-- .site-branding -->
+     <nav class="primary-navigation navigation clearfix" id="main-navigation" role="navigation">
+      <div class="mega-menu-wrap" id="mega-menu-wrap-primary">
+       <div class="mega-menu-toggle">
+        <div class="mega-toggle-blocks-left">
+         <div class="mega-toggle-block mega-logo-block mega-toggle-block-1" id="mega-toggle-block-1">
+          <a class="mega-menu-logo" href="https://space-facts.com" target="_self">
+           <img alt="Space Facts" class="mega-menu-logo" src="https://space-facts.com/wp-content/uploads/space-facts-logo.png"/>
+          </a>
+         </div>
+        </div>
+        <div class="mega-toggle-blocks-center">
+        </div>
+        <div class="mega-toggle-blocks-right">
+         <div class="mega-toggle-block mega-search-block mega-toggle-block-2" id="mega-toggle-block-2">
+          <div class="mega-search-wrap">
+           <form action="https://space-facts.com/" class="mega-search expand-to-left mega-search-closed">
+            <span class="dashicons dashicons-search search-icon">
+            </span>
+            <input type="submit" value="Search"/>
+            <input aria-label="Search..." data-placeholder="Search..." name="s" type="text"/>
+           </form>
+          </div>
+         </div>
+         <div class="mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-3" id="mega-toggle-block-3">
+          <button aria-expanded="false" aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button">
+           <span class="mega-toggle-animated-box">
+            <span class="mega-toggle-animated-inner">
+            </span>
+           </span>
+          </button>
+         </div>
+        </div>
+       </div>
+       <ul class="mega-menu max-mega-menu mega-menu-horizontal" data-breakpoint="734" data-document-click="collapse" data-effect="slide" data-effect-mobile="disabled" data-effect-speed="200" data-effect-speed-mobile="0" data-event="hover_intent" data-mobile-force-width="false" data-second-click="go" data-unbind="true" data-vertical-behaviour="standard" id="mega-menu-primary">
+        <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-ancestor mega-current_page_ancestor mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-69" id="mega-menu-item-69">
+         <a aria-expanded="false" aria-haspopup="true" class="mega-menu-link" href="https://space-facts.com/planets/" tabindex="0">
+          Planets
+          <span class="mega-indicator">
+          </span>
+         </a>
+         <ul class="mega-sub-menu">
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-ancestor mega-current-menu-parent mega-current_page_parent mega-current_page_ancestor mega-menu-item-has-children mega-menu-columns-1-of-3 mega-menu-item-436" id="mega-menu-item-436">
+           <a class="mega-menu-link" href="https://space-facts.com/terrestrial-planets/">
+            Terrestrial Planets
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-139" id="mega-menu-item-139">
+             <a class="mega-menu-link" href="https://space-facts.com/mercury/">
+              Mercury
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-140" id="mega-menu-item-140">
+             <a class="mega-menu-link" href="https://space-facts.com/venus/">
+              Venus
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-138" id="mega-menu-item-138">
+             <a class="mega-menu-link" href="https://space-facts.com/earth/">
+              Earth
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-item mega-page_item mega-page-item-7 mega-current_page_item mega-menu-item-68" id="mega-menu-item-68">
+             <a class="mega-menu-link" href="https://space-facts.com/mars/">
+              Mars
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-columns-1-of-3 mega-menu-item-435" id="mega-menu-item-435">
+           <a class="mega-menu-link" href="https://space-facts.com/gas-giants/">
+            Gas Giants
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-78" id="mega-menu-item-78">
+             <a class="mega-menu-link" href="https://space-facts.com/jupiter/">
+              Jupiter
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-143" id="mega-menu-item-143">
+             <a class="mega-menu-link" href="https://space-facts.com/saturn/">
+              Saturn
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-142" id="mega-menu-item-142">
+             <a class="mega-menu-link" href="https://space-facts.com/uranus/">
+              Uranus
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-141" id="mega-menu-item-141">
+             <a class="mega-menu-link" href="https://space-facts.com/neptune/">
+              Neptune
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-columns-1-of-3 mega-menu-item-85" id="mega-menu-item-85">
+           <a class="mega-menu-link" href="https://space-facts.com/dwarf-planets/">
+            Dwarf Planets
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-133" id="mega-menu-item-133">
+             <a class="mega-menu-link" href="https://space-facts.com/ceres/">
+              Ceres
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-137" id="mega-menu-item-137">
+             <a class="mega-menu-link" href="https://space-facts.com/pluto/">
+              Pluto
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-135" id="mega-menu-item-135">
+             <a class="mega-menu-link" href="https://space-facts.com/haumea/">
+              Haumea
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-136" id="mega-menu-item-136">
+             <a class="mega-menu-link" href="https://space-facts.com/makemake/">
+              Makemake
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-134" id="mega-menu-item-134">
+             <a class="mega-menu-link" href="https://space-facts.com/eris/">
+              Eris
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-90" id="mega-menu-item-90">
+         <a aria-expanded="false" aria-haspopup="true" class="mega-menu-link" href="https://space-facts.com/solar-system/" tabindex="0">
+          Solar System
+          <span class="mega-indicator">
+          </span>
+         </a>
+         <ul class="mega-sub-menu">
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-473" id="mega-menu-item-473">
+           <a class="mega-menu-link" href="https://space-facts.com/the-sun/">
+            The Sun
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-481" id="mega-menu-item-481">
+           <a class="mega-menu-link" href="https://space-facts.com/solar-eclipse/">
+            Solar Eclipses
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-469" id="mega-menu-item-469">
+           <a class="mega-menu-link" href="https://space-facts.com/asteroid-belt/">
+            Asteroid Belt
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-484" id="mega-menu-item-484">
+           <a class="mega-menu-link" href="https://space-facts.com/kuiper-belt/">
+            Kuiper Belt
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-470" id="mega-menu-item-470">
+           <a class="mega-menu-link" href="https://space-facts.com/oort-cloud/">
+            Oort Cloud
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-472" id="mega-menu-item-472">
+           <a class="mega-menu-link" href="https://space-facts.com/asteroids/">
+            Asteroids
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-483" id="mega-menu-item-483">
+           <a class="mega-menu-link" href="https://space-facts.com/comets/">
+            Comets
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-471" id="mega-menu-item-471">
+           <a class="mega-menu-link" href="https://space-facts.com/meteorites/">
+            Meteorites
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-482" id="mega-menu-item-482">
+           <a class="mega-menu-link" href="https://space-facts.com/meteor-showers/">
+            Meteor Showers
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-86" id="mega-menu-item-86">
+         <a aria-expanded="false" aria-haspopup="true" class="mega-menu-link" href="https://space-facts.com/galaxies/" tabindex="0">
+          Galaxies
+          <span class="mega-indicator">
+          </span>
+         </a>
+         <ul class="mega-sub-menu">
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-368" id="mega-menu-item-368">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/milky-way/">
+            Milky Way
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-365" id="mega-menu-item-365">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/andromeda/">
+            Andromeda
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-162" id="mega-menu-item-162">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/messier-87/">
+            Messier 87
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-366" id="mega-menu-item-366">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/antennae/">
+            Antennae
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-367" id="mega-menu-item-367">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/magellanic-clouds/">
+            Magellanic Clouds
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-369" id="mega-menu-item-369">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/pinwheel/">
+            Pinwheel
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-370" id="mega-menu-item-370">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/sombrero/">
+            Sombrero
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-371" id="mega-menu-item-371">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/triangulum/">
+            Triangulum
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-372" id="mega-menu-item-372">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/whirlpool/">
+            Whirlpool
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-457" id="mega-menu-item-457">
+           <a class="mega-menu-link" href="https://space-facts.com/galaxies/types/">
+            Galaxy Types
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-87" id="mega-menu-item-87">
+         <a aria-expanded="false" aria-haspopup="true" class="mega-menu-link" href="https://space-facts.com/moons/" tabindex="0">
+          Moons
+          <span class="mega-indicator">
+          </span>
+         </a>
+         <ul class="mega-sub-menu">
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-4 mega-menu-item-403" id="mega-menu-item-403">
+           <a class="mega-menu-link" href="https://space-facts.com/the-moon/">
+            The Moon
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-1-of-4 mega-menu-item-418" id="mega-menu-item-418">
+           <a class="mega-menu-link" href="/moons/#mars">
+            Mars' Moons
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-413" id="mega-menu-item-413">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/phobos/">
+              Phobos
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-412" id="mega-menu-item-412">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/deimos/">
+              Deimos
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-1-of-4 mega-menu-item-419" id="mega-menu-item-419">
+           <a class="mega-menu-link" href="/moons/#jupiter">
+            Jupiter's Moons
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-415" id="mega-menu-item-415">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/io/">
+              Io
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-163" id="mega-menu-item-163">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/europa/">
+              Europa
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-414" id="mega-menu-item-414">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/ganymede/">
+              Ganymede
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-416" id="mega-menu-item-416">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/callisto/">
+              Callisto
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-1-of-4 mega-menu-item-420" id="mega-menu-item-420">
+           <a class="mega-menu-link" href="/moons/#saturn">
+            Saturn's Moons
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-411" id="mega-menu-item-411">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/enceladus/">
+              Enceladus
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-410" id="mega-menu-item-410">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/rhea/">
+              Rhea
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-409" id="mega-menu-item-409">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/titan/">
+              Titan
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-408" id="mega-menu-item-408">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/iapetus/">
+              Iapetus
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-1-of-4 mega-menu-clear mega-menu-item-421" id="mega-menu-item-421">
+           <a class="mega-menu-link" href="/moons/#uranus">
+            Uranus' Moons
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-407" id="mega-menu-item-407">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/miranda/">
+              Miranda
+             </a>
+            </li>
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-406" id="mega-menu-item-406">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/titania/">
+              Titania
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-1-of-4 mega-menu-item-422" id="mega-menu-item-422">
+           <a class="mega-menu-link" href="/moons/#neptune">
+            Neptune's Moons
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-405" id="mega-menu-item-405">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/triton/">
+              Triton
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-1-of-4 mega-menu-item-423" id="mega-menu-item-423">
+           <a class="mega-menu-link" href="/moons/#pluto">
+            Pluto's Moons
+            <span class="mega-indicator">
+            </span>
+           </a>
+           <ul class="mega-sub-menu">
+            <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-404" id="mega-menu-item-404">
+             <a class="mega-menu-link" href="https://space-facts.com/moons/charon/">
+              Charon
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-93" id="mega-menu-item-93">
+         <a aria-expanded="false" aria-haspopup="true" class="mega-menu-link" href="https://space-facts.com/universe/" tabindex="0">
+          Universe
+          <span class="mega-indicator">
+          </span>
+         </a>
+         <ul class="mega-sub-menu">
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-456" id="mega-menu-item-456">
+           <a class="mega-menu-link" href="https://space-facts.com/black-holes/">
+            Black Holes
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-454" id="mega-menu-item-454">
+           <a class="mega-menu-link" href="https://space-facts.com/stars/">
+            Stars
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-455" id="mega-menu-item-455">
+           <a class="mega-menu-link" href="https://space-facts.com/nebulae/">
+            Nebulae
+           </a>
+          </li>
+          <li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-434" id="mega-menu-item-434">
+           <a class="mega-menu-link" href="https://space-facts.com/exoplanets/">
+            Exoplanets
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-hide-on-mobile mega-menu-item-6556" id="mega-menu-item-6556">
+         <div class="mega-search-wrap">
+          <form action="https://space-facts.com/" class="mega-search expand-to-left mega-search-closed" role="search">
+           <span class="dashicons dashicons-search search-icon">
+           </span>
+           <input type="submit" value="Search"/>
+           <input aria-label="Search..." data-placeholder="Search..." name="s" placeholder="" type="text"/>
+          </form>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <!-- #main-navigation -->
+    </div>
+    <!-- .header-main -->
+   </header>
+   <!-- #masthead -->
+   <div class="site-content container clearfix" id="content">
+    <div class="widget_text widget widget_custom_html ad-header" id="custom_html-6">
+     <div class="textwidget custom-html-widget">
+      <center>
+       <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+       </script>
+       <!-- Header - Not Responsive -->
+       <ins class="adsbygoogle" data-ad-client="ca-pub-4251889121233823" data-ad-slot="9356416003" data-adsbygoogle-status="done" style="display:inline-block;width:728px;height:90px">
+        <ins id="aswift_1_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent;">
+         <ins id="aswift_1_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent;">
+          <iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="90" hspace="0" id="aswift_1" marginheight="0" marginwidth="0" name="aswift_1" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" scrolling="no" style="left:0;position:absolute;top:0;border:0px;width:728px;height:90px;" vspace="0" width="728">
+          </iframe>
+         </ins>
+        </ins>
+       </ins>
+       <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+      </center>
+     </div>
+    </div>
+    <section class="content-single content-area" id="primary">
+     <main class="site-main" id="main" role="main">
+      <article class="post-7 page type-page status-publish has-post-thumbnail hentry" id="post-7">
+       <header class="entry-header">
+        <h1 class="page-title">
+         Mars Facts
+        </h1>
+       </header>
+       <!-- .entry-header -->
+       <div class="entry-content clearfix">
+        <div class="black-background">
+         <figure>
+          <img alt="Mars" class="aligncenter size-full wp-image-5696" height="700" loading="eager" sizes="(max-width: 700px) 100vw, 700px" src="https://space-facts.com/wp/wp-content/uploads/mars.jpg" srcset="https://space-facts.com/wp-content/uploads/mars.jpg 700w, https://space-facts.com/wp-content/uploads/mars-150x150.jpg 150w, https://space-facts.com/wp-content/uploads/mars-300x300.jpg 300w, https://space-facts.com/wp-content/uploads/mars-180x180.jpg 180w, https://space-facts.com/wp-content/uploads/mars-50x50.jpg 50w" width="700"/>
+         </figure>
+        </div>
+        <p>
+         Mars is the fourth planet from the
+         <a href="https://space-facts.com/the-sun/">
+          Sun
+         </a>
+         and is the second smallest planet in the solar system. Named after the Roman god of war, Mars is also often described as the “Red Planet” due to its reddish appearance. Mars is a
+         <a href="https://space-facts.com/terrestrial-planets/">
+          terrestrial planet
+         </a>
+         with a thin atmosphere composed primarily of carbon dioxide.
+        </p>
+        <div class="widget widget_text profiles" id="text-75">
+         <div class="textwidget">
+          <table class="tablepress tablepress-id-p-mars" id="tablepress-p-mars">
+           <tbody>
+            <tr class="row-1 odd">
+             <td class="column-1">
+              <strong>
+               Equatorial Diameter:
+              </strong>
+             </td>
+             <td class="column-2">
+              6,792 km
+              <br/>
+             </td>
+            </tr>
+            <tr class="row-2 even">
+             <td class="column-1">
+              <strong>
+               Polar Diameter:
+              </strong>
+             </td>
+             <td class="column-2">
+              6,752 km
+              <br/>
+             </td>
+            </tr>
+            <tr class="row-3 odd">
+             <td class="column-1">
+              <strong>
+               Mass:
+              </strong>
+             </td>
+             <td class="column-2">
+              6.39 × 10^23 kg
+              <br/>
+              (0.11 Earths)
+             </td>
+            </tr>
+            <tr class="row-4 even">
+             <td class="column-1">
+              <strong>
+               Moons:
+              </strong>
+             </td>
+             <td class="column-2">
+              2 (
+              <a href="https://space-facts.com/moons/phobos/">
+               Phobos
+              </a>
+              &amp;
+              <a href="https://space-facts.com/moons/deimos/">
+               Deimos
+              </a>
+              )
+             </td>
+            </tr>
+            <tr class="row-5 odd">
+             <td class="column-1">
+              <strong>
+               Orbit Distance:
+              </strong>
+             </td>
+             <td class="column-2">
+              227,943,824 km
+              <br/>
+              (1.38 AU)
+             </td>
+            </tr>
+            <tr class="row-6 even">
+             <td class="column-1">
+              <strong>
+               Orbit Period:
+              </strong>
+             </td>
+             <td class="column-2">
+              687 days (1.9 years)
+              <br/>
+             </td>
+            </tr>
+            <tr class="row-7 odd">
+             <td class="column-1">
+              <strong>
+               Surface Temperature:
+              </strong>
+             </td>
+             <td class="column-2">
+              -87 to -5 °C
+             </td>
+            </tr>
+            <tr class="row-8 even">
+             <td class="column-1">
+              <strong>
+               First Record:
+              </strong>
+             </td>
+             <td class="column-2">
+              2nd millennium BC
+             </td>
+            </tr>
+            <tr class="row-9 odd">
+             <td class="column-1">
+              <strong>
+               Recorded By:
+              </strong>
+             </td>
+             <td class="column-2">
+              Egyptian astronomers
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <!-- #tablepress-p-mars from cache -->
+         </div>
+        </div>
+        <div id="facts">
+         <h2>
+          Facts about Mars
+         </h2>
+         <ul>
+          <li>
+           <strong>
+            Mars and Earth have approximately the same landmass.
+           </strong>
+           <br/>
+           Even though Mars has only 15% of the
+           <a href="https://space-facts.com/earth/">
+            Earth’s
+           </a>
+           volume and just over 10% of the Earth’s mass, around two thirds of the Earth’s surface is covered in water. Martian surface gravity is only 37% of the Earth’s (meaning you could leap nearly three times higher on Mars).
+          </li>
+          <li>
+           <strong>
+            Mars is home to the tallest mountain in the solar system.
+           </strong>
+           <br/>
+           <a href="https://space-facts.com/mars-features/#olympus">
+            Olympus Mons
+           </a>
+           , a shield volcano, is 21km high and 600km in diameter. Despite having formed over billions of years, evidence from volcanic lava flows is so recent many scientists believe it could still be active.
+          </li>
+          <li>
+           <strong>
+            Only 18 missions to Mars have been successful.
+           </strong>
+           <br/>
+           As of September 2014 there have been 40
+           <a href="https://space-facts.com/mars-missions/">
+            missions to Mars
+           </a>
+           , including orbiters, landers and rovers but not counting flybys. The most recent arrivals include the Mars Curiosity mission in 2012, the MAVEN mission, which arrived on September 22, 2014, followed by the Indian Space Research Organization’s MOM Mangalyaan orbiter, which arrived on September 24, 2014. The next missions to arrive will be the European Space Agency’s ExoMars mission, comprising an orbiter, lander, and a rover, followed by NASA’s InSight robotic lander mission, slated for launch in March 2016 and a planned arrival in September, 2016.
+          </li>
+          <li>
+           <strong>
+            Mars has the largest dust storms in the solar system.
+           </strong>
+           <br/>
+           They can last for months and cover the entire planet. The seasons are extreme because its elliptical (oval-shaped) orbital path around the Sun is more elongated than most other planets in the
+           <a href="https://space-facts.com/solar-system/">
+            solar system
+           </a>
+           .
+          </li>
+          <li>
+           <strong>
+            On Mars the Sun appears about half the size as it does on Earth.
+           </strong>
+           <br/>
+           At the closest point to the Sun, the Martian southern hemisphere leans towards the Sun, causing a short, intensely hot summer, while the northern hemisphere endures a brief, cold winter: at its farthest point from the Sun, the Martian northern hemisphere leans towards the Sun, causing a long, mild summer, while the southern hemisphere endures a lengthy, cold winter.
+          </li>
+          <li>
+           <strong>
+            Pieces of Mars have fallen to Earth.
+           </strong>
+           <br/>
+           Scientists have found tiny traces of Martian atmosphere within meteorites violently ejected from Mars, then orbiting the solar system amongst galactic debris for millions of years, before crash landing on Earth. This allowed scientists to begin studying Mars prior to launching space missions.
+          </li>
+          <li>
+           <strong>
+            Mars takes its name from the Roman god of war.
+           </strong>
+           <br/>
+           The ancient Greeks called the planet Ares, after their god of war; the Romans then did likewise, associating the planet’s blood-red colour with Mars, their own god of war. Interestingly, other ancient cultures also focused on colour – to China’s astronomers it was ‘the fire star’, whilst Egyptian priests called on ‘Her Desher’, or ‘the red one’. The red colour Mars is known for is due to the rock and dust covering its surface being rich in iron.
+          </li>
+          <li>
+           <strong>
+            There are signs of liquid water on Mars.
+           </strong>
+           <br/>
+           For years Mars has been known to have water in the form of ice. The first signs of trickling water are dark stripes or stains on crater wall and cliffs seen in satellite images. Due to Mars’ atmosphere this water would have to be salty to prevent it from freezing or vaporising.
+          </li>
+          <li>
+           <strong>
+            One day Mars will have a ring.
+           </strong>
+           <br/>
+           In the next 20-40 million years Mars’ largest moon Phobos will be torn apart by gravitational forces leading to the creation of a ring that could last up to 100 million years.
+          </li>
+         </ul>
+        </div>
+        <h2>
+         Mars Diagrams
+        </h2>
+        <div class="diagram-background" id="diagrams">
+         <div class="wp-block-image">
+          <figure class="aligncenter">
+           <img alt="Mars size compared to Earth" class="wp-image-6263" loading="lazy" sizes="(max-width: 760px) 100vw, 760px" src="https://space-facts.com/wp/wp-content/uploads/mars-size.png" srcset="https://space-facts.com/wp-content/uploads/mars-size.png 760w, https://space-facts.com/wp-content/uploads/mars-size-300x118.png 300w"/>
+           <figcaption>
+            <span class="mars">
+             Mars
+            </span>
+            size compared to
+            <span class="earth">
+             Earth
+            </span>
+           </figcaption>
+          </figure>
+         </div>
+         <div class="wp-block-image">
+          <figure class="aligncenter">
+           <img alt="Mars distance from the Sun" class="wp-image-6262" loading="lazy" sizes="(max-width: 760px) 100vw, 760px" src="https://space-facts.com/wp/wp-content/uploads/mars-orbit.png" srcset="https://space-facts.com/wp-content/uploads/mars-orbit.png 760w, https://space-facts.com/wp-content/uploads/mars-orbit-300x20.png 300w"/>
+           <figcaption>
+            <span class="mars">
+             Mars
+            </span>
+            distance from the
+            <span class="sun">
+             Sun
+            </span>
+            and orbital eccentricity
+           </figcaption>
+          </figure>
+         </div>
+         <table class="tablepress tablepress-id-comp-mars blue-table" id="tablepress-comp-mars">
+          <thead>
+           <tr class="row-1">
+            <th class="column-1">
+             <strong>
+              Mars - Earth Comparison
+             </strong>
+            </th>
+            <th class="column-2">
+             <span class="mars">
+              Mars
+             </span>
+            </th>
+            <th class="column-3">
+             <span class="earth">
+              Earth
+             </span>
+            </th>
+           </tr>
+          </thead>
+          <tbody>
+           <tr class="row-2">
+            <td class="column-1">
+             Diameter:
+            </td>
+            <td class="column-2">
+             <span class="mars-s">
+              6,779 km
+             </span>
+            </td>
+            <td class="column-3">
+             <span class="earth-s">
+              12,742 km
+             </span>
+            </td>
+           </tr>
+           <tr class="row-3">
+            <td class="column-1">
+             Mass:
+            </td>
+            <td class="column-2">
+             <span class="mars-s">
+              6.39 × 10^23 kg
+             </span>
+            </td>
+            <td class="column-3">
+             <span class="earth-s">
+              5.97 × 10^24 kg
+             </span>
+            </td>
+           </tr>
+           <tr class="row-4">
+            <td class="column-1">
+             Moons:
+            </td>
+            <td class="column-2">
+             <span class="mars-s">
+              2
+             </span>
+            </td>
+            <td class="column-3">
+             <span class="earth-s">
+              1
+             </span>
+            </td>
+           </tr>
+           <tr class="row-5">
+            <td class="column-1">
+             Distance from Sun:
+            </td>
+            <td class="column-2">
+             <span class="mars-s">
+              227,943,824 km
+             </span>
+            </td>
+            <td class="column-3">
+             <span class="earth-s">
+              149,598,262 km
+             </span>
+            </td>
+           </tr>
+           <tr class="row-6">
+            <td class="column-1">
+             Length of Year:
+            </td>
+            <td class="column-2">
+             <span class="mars-s">
+              687 Earth days
+             </span>
+            </td>
+            <td class="column-3">
+             <span class="earth-s">
+              365.24 days
+             </span>
+            </td>
+           </tr>
+           <tr class="row-7">
+            <td class="column-1">
+             Temperature:
+            </td>
+            <td class="column-2">
+             <span class="mars-s">
+              -153 to 20 °C
+             </span>
+            </td>
+            <td class="column-3">
+             <span class="earth-s">
+              -88 to 58°C
+             </span>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <!-- #tablepress-comp-mars from cache -->
+        </div>
+        <h2>
+         Mars Features
+        </h2>
+        <h3>
+         Moons
+        </h3>
+        <p>
+         Mars has two small moons,
+         <a href="https://space-facts.com/moons/phobos/">
+          Phobos
+         </a>
+         and
+         <a href="https://space-facts.com/moons/deimos/">
+          Deimos
+         </a>
+         . They were discovered in 1877 by astronomer Asaph Hall, who named them for the Latin terms “fear” and “panic”. These moons are thought to be captured asteroids and are among the smallest natural satellites in the solar system.
+        </p>
+        <h3>
+         Olympus Mons
+        </h3>
+        <p>
+         Mars has the largest volcano in the solar system – Olympus Mons. It measures some 600 kilometres across and rises nearly 27 kilometres above the surrounding terrain. It is a shield volcano built by the continuous action of flowing lava over millions and millions of years that began some 3 billion years ago.
+        </p>
+        <p>
+         Olympus Mons is part of a complex of volcanoes that lie along a volcanic plateau called the Tharsis Bulge. This entire region lies over a hotspot, a place in the planet’s crust that allows magma from deep inside to flow out to the surface.
+        </p>
+        <h3>
+         Valles Marineris
+        </h3>
+        <p>
+         The Valles Marineris is an extensive canyon system on the Mars equator. It is 4,200 kilometres long and, in places, is 7 kilometres deep. On Earth, it would span the entire North American continent and  beyond.
+        </p>
+        <p>
+         Mars has has a very primitive form of plate tectonics, and the action of two plates past each other began splitting the surface some 3.5 billion years ago. That set the stage for the formation of the Valles Marineris.
+        </p>
+        <p class="sources">
+         <strong>
+          Sources:
+         </strong>
+         <a href="https://solarsystem.nasa.gov/planets/mars/overview/">
+          https://solarsystem.nasa.gov/planets/mars/overview/
+         </a>
+         ,
+         <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html">
+          https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html
+         </a>
+         ,
+         <a href="https://astrogeology.usgs.gov/maps/mars-viking-hemisphere-point-perspectives">
+          https://astrogeology.usgs.gov/maps/mars-viking-hemisphere-point-perspectives
+         </a>
+         <br/>
+         <strong>
+          First Published:
+         </strong>
+         June 2012
+         <br/>
+         <strong>
+          Last Updated:
+         </strong>
+         November 2019
+         <br/>
+         <strong>
+          Author:
+         </strong>
+         <a href="https://space-facts.com/about/#chris">
+          Chris Jones
+         </a>
+        </p>
+        <div class="sharedaddy sd-sharing-enabled">
+         <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+          <div class="sd-content">
+           <ul>
+            <li class="share-twitter">
+             <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-7" href="https://space-facts.com/mars/?share=twitter&amp;nb=1" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+              <span>
+              </span>
+              <span class="sharing-screen-reader-text">
+               Click to share on Twitter (Opens in new window)
+              </span>
+             </a>
+            </li>
+            <li class="share-facebook">
+             <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-7" href="https://space-facts.com/mars/?share=facebook&amp;nb=1" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+              <span>
+              </span>
+              <span class="sharing-screen-reader-text">
+               Click to share on Facebook (Opens in new window)
+              </span>
+             </a>
+            </li>
+            <li class="share-pinterest">
+             <a class="share-pinterest sd-button share-icon no-text" data-shared="sharing-pinterest-7" href="https://space-facts.com/mars/?share=pinterest&amp;nb=1" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Pinterest">
+              <span>
+              </span>
+              <span class="sharing-screen-reader-text">
+               Click to share on Pinterest (Opens in new window)
+              </span>
+             </a>
+            </li>
+            <li class="share-reddit">
+             <a class="share-reddit sd-button share-icon no-text" data-shared="" href="https://space-facts.com/mars/?share=reddit&amp;nb=1" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Reddit">
+              <span>
+              </span>
+              <span class="sharing-screen-reader-text">
+               Click to share on Reddit (Opens in new window)
+              </span>
+             </a>
+            </li>
+            <li class="share-tumblr">
+             <a class="share-tumblr sd-button share-icon no-text" data-shared="" href="https://space-facts.com/mars/?share=tumblr&amp;nb=1" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Tumblr">
+              <span>
+              </span>
+              <span class="sharing-screen-reader-text">
+               Click to share on Tumblr (Opens in new window)
+              </span>
+             </a>
+            </li>
+            <li class="share-end">
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!-- .entry-content -->
+      </article>
+      <div class="widget_text widget widget_custom_html widget-bottom" id="custom_html-3">
+       <div class="textwidget custom-html-widget">
+        <div class="ad-bottom">
+         <center>
+          <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+          </script>
+          <!-- Footer -->
+          <ins class="adsbygoogle" data-ad-client="ca-pub-4251889121233823" data-ad-format="rectangle" data-ad-slot="4958505060" data-adsbygoogle-status="done" data-full-width-responsive="true" style="display: block; height: 280px;">
+           <ins id="aswift_2_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:400px;background-color:transparent;">
+            <ins id="aswift_2_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:400px;background-color:transparent;">
+             <iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="280" hspace="0" id="aswift_2" marginheight="0" marginwidth="0" name="aswift_2" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" scrolling="no" style="left:0;position:absolute;top:0;border:0px;width:400px;height:280px;" vspace="0" width="400">
+             </iframe>
+            </ins>
+           </ins>
+          </ins>
+          <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+         </center>
+        </div>
+       </div>
+      </div>
+      <div class="widget widget_text widget-bottom" id="text-69">
+       <div class="textwidget">
+        <h3 class="widget-title widget-header">
+         Related space facts:
+        </h3>
+        <div class="jp-relatedposts" id="jp-relatedposts">
+        </div>
+       </div>
+      </div>
+      <div class="comments-area" id="comments">
+      </div>
+      <!-- #comments -->
+     </main>
+     <!-- #main -->
+    </section>
+    <!-- #primary -->
+    <section class="sidebar widget-area clearfix" id="secondary" role="complementary">
+     <aside class="widget widget_text clearfix" id="text-2">
+      <div class="widget-header">
+       <h3 class="widget-title">
+        Mars Planet Profile
+       </h3>
+      </div>
+      <div class="textwidget">
+       <table class="tablepress tablepress-id-p-mars" id="tablepress-p-mars-no-2">
+        <tbody>
+         <tr class="row-1 odd">
+          <td class="column-1">
+           <strong>
+            Equatorial Diameter:
+           </strong>
+          </td>
+          <td class="column-2">
+           6,792 km
+           <br/>
+          </td>
+         </tr>
+         <tr class="row-2 even">
+          <td class="column-1">
+           <strong>
+            Polar Diameter:
+           </strong>
+          </td>
+          <td class="column-2">
+           6,752 km
+           <br/>
+          </td>
+         </tr>
+         <tr class="row-3 odd">
+          <td class="column-1">
+           <strong>
+            Mass:
+           </strong>
+          </td>
+          <td class="column-2">
+           6.39 × 10^23 kg
+           <br/>
+           (0.11 Earths)
+          </td>
+         </tr>
+         <tr class="row-4 even">
+          <td class="column-1">
+           <strong>
+            Moons:
+           </strong>
+          </td>
+          <td class="column-2">
+           2 (
+           <a href="https://space-facts.com/moons/phobos/">
+            Phobos
+           </a>
+           &amp;
+           <a href="https://space-facts.com/moons/deimos/">
+            Deimos
+           </a>
+           )
+          </td>
+         </tr>
+         <tr class="row-5 odd">
+          <td class="column-1">
+           <strong>
+            Orbit Distance:
+           </strong>
+          </td>
+          <td class="column-2">
+           227,943,824 km
+           <br/>
+           (1.38 AU)
+          </td>
+         </tr>
+         <tr class="row-6 even">
+          <td class="column-1">
+           <strong>
+            Orbit Period:
+           </strong>
+          </td>
+          <td class="column-2">
+           687 days (1.9 years)
+           <br/>
+          </td>
+         </tr>
+         <tr class="row-7 odd">
+          <td class="column-1">
+           <strong>
+            Surface Temperature:
+           </strong>
+          </td>
+          <td class="column-2">
+           -87 to -5 °C
+          </td>
+         </tr>
+         <tr class="row-8 even">
+          <td class="column-1">
+           <strong>
+            First Record:
+           </strong>
+          </td>
+          <td class="column-2">
+           2nd millennium BC
+          </td>
+         </tr>
+         <tr class="row-9 odd">
+          <td class="column-1">
+           <strong>
+            Recorded By:
+           </strong>
+          </td>
+          <td class="column-2">
+           Egyptian astronomers
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <!-- #tablepress-p-mars-no-2 from cache -->
+      </div>
+     </aside>
+     <aside class="widget_text widget widget_custom_html clearfix" id="custom_html-7">
+      <div class="widget-header">
+       <h3 class="widget-title">
+        Planets
+       </h3>
+      </div>
+      <div class="textwidget custom-html-widget">
+       <ul class="widgets-list-layout">
+        <li>
+         <a href="/mercury/">
+          <img alt="Mercury Facts" height="50" src="https://space-facts.com/wp-content/uploads/mercury-50x50.png" width="50"/>
+          <span class="widgets-list-layout-links">
+           Mercury
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/venus/">
+          <img alt="Venus Facts" height="50" src="https://space-facts.com/wp-content/uploads/venus-50x50.png" width="50"/>
+          <span class="widgets-list-layout-links">
+           Venus
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/earth/">
+          <img alt="Earth Facts" height="50" src="https://space-facts.com/wp-content/uploads/earth-50x50.png" width="50"/>
+          <span class="widgets-list-layout-links">
+           Earth
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mars/">
+          <img alt="Mars Facts" height="50" src="https://space-facts.com/wp-content/uploads/mars-50x50.jpg" width="50"/>
+          <span class="widgets-list-layout-links">
+           Mars
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/jupiter/">
+          <img alt="Jupiter Facts" height="50" src="https://space-facts.com/wp-content/uploads/jupiter-50x50.png" width="50"/>
+          <span class="widgets-list-layout-links">
+           Jupiter
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/saturn/">
+          <img alt="Saturn Facts" height="50" src="https://space-facts.com/wp-content/uploads/saturn-50x50.png" width="50"/>
+          <span class="widgets-list-layout-links">
+           Saturn
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/uranus/">
+          <img alt="Uranus Facts" height="50" src="https://space-facts.com/wp-content/uploads/uranus-50x50.jpg" width="50"/>
+          <span class="widgets-list-layout-links">
+           Uranus
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/neptune/">
+          <img alt="Neptune Facts" height="50" src="https://space-facts.com/wp-content/uploads/neptune-50x50.png" width="50"/>
+          <span class="widgets-list-layout-links">
+           Neptune
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </aside>
+     <aside class="widget_text widget widget_custom_html clearfix" id="custom_html-4">
+      <div class="textwidget custom-html-widget">
+       <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+       </script>
+       <!-- Sidebar -->
+       <ins class="adsbygoogle" data-ad-client="ca-pub-4251889121233823" data-ad-format="vertical" data-ad-slot="3223531810" data-adsbygoogle-status="done" data-full-width-responsive="true" style="display: block; height: 600px;">
+        <ins id="aswift_3_expand" style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;">
+         <ins id="aswift_3_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;">
+          <iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="600" hspace="0" id="aswift_3" marginheight="0" marginwidth="0" name="aswift_3" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" scrolling="no" style="left:0;position:absolute;top:0;border:0px;width:300px;height:600px;" vspace="0" width="300">
+          </iframe>
+         </ins>
+        </ins>
+       </ins>
+       <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+      </div>
+     </aside>
+     <aside class="widget widget_recent_entries clearfix" id="recent-posts-2">
+      <div class="widget-header">
+       <h3 class="widget-title">
+        Recent Posts
+       </h3>
+      </div>
+      <ul>
+       <li>
+        <a href="https://space-facts.com/googles-planet-scale-mistake/">
+         Google’s Planet Scale Mistake
+        </a>
+       </li>
+       <li>
+        <a href="https://space-facts.com/the-ultimate-list-of-tv-shows-set-in-space-or-on-other-planets/">
+         The Ultimate List of TV Shows set in Space or on Other Planets
+        </a>
+       </li>
+       <li>
+        <a href="https://space-facts.com/jupiters-galilean-moons-profile-gifs/">
+         Jupiter’s Galilean Moons (Profile Gifs)
+        </a>
+       </li>
+       <li>
+        <a href="https://space-facts.com/planets-moons-star-wars/">
+         The Planets and Moons of Star Wars to Scale
+        </a>
+       </li>
+       <li>
+        <a href="https://space-facts.com/planet-orbits/">
+         Planet Orbits
+        </a>
+       </li>
+       <li>
+        <a href="https://space-facts.com/pluto-information-infographic/">
+         Pluto Size, Composition, Distance from Sun &amp; Moons
+        </a>
+       </li>
+      </ul>
+     </aside>
+     <aside class="widget widget_top-posts clearfix" id="top-posts-3">
+      <div class="widget-header">
+       <h3 class="widget-title">
+        Top Posts
+       </h3>
+      </div>
+      <ul>
+       <li>
+        <a class="bump-view" data-bump-view="tp" href="https://space-facts.com/googles-planet-scale-mistake/">
+         Google's Planet Scale Mistake
+        </a>
+       </li>
+      </ul>
+     </aside>
+    </section>
+    <!-- #secondary -->
+   </div>
+   <!-- #content -->
+   <div class="footer-widgets-wrap" id="footer-widgets-wrap">
+    <div class="footer-widgets container" id="footer-widgets">
+     <div class="footer-widgets-columns clearfix" id="footer-widgets-columns" role="complementary">
+      <div class="footer-widget-column">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="footer-wrap" id="footer">
+    <footer class="site-footer container clearfix" id="colophon" role="contentinfo">
+     <div class="site-info" id="footer-text">
+      © Copyright 2019 Space Facts
+     </div>
+     <!-- .site-info -->
+     <nav class="footer-navigation navigation clearfix" id="footer-navigation" role="navigation">
+      <ul class="footer-navigation-menu" id="menu-footer">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5584" id="menu-item-5584">
+        <a href="https://space-facts.com/blog/">
+         Blog
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5585" id="menu-item-5585">
+        <a href="https://space-facts.com/about/">
+         About
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5595" id="menu-item-5595">
+        <a href="https://space-facts.com/contact/">
+         Contact
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5589" id="menu-item-5589">
+        <a href="https://space-facts.com/privacy-policy/">
+         Privacy Policy
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <!-- #footer-navigation -->
+    </footer>
+    <!-- #colophon -->
+   </div>
+  </div>
+  <ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;">
+   <ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;">
+    <ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;">
+     <iframe allowfullscreen="true" allowtransparency="true" frameborder="0" hspace="0" id="aswift_0" marginheight="0" marginwidth="0" name="aswift_0" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" scrolling="no" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;" vspace="0">
+     </iframe>
+    </ins>
+   </ins>
+  </ins>
+  <!-- #page -->
+  <script type="text/javascript">
+   window.WPCOM_sharing_counts = {"https:\/\/space-facts.com\/mars\/":7};
+  </script>
+  <script type="text/javascript">
+   /*  */
+var megamenu = {"timeout":"300","interval":"100"};
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/*  */
+  </script>
+  <script src="https://space-facts.com/wp-content/uploads/cache/fvm/1581516212/out/footer-79c5d8bbe35cd7808339d192e57ab2bcca253bcd.min.js" type="text/javascript">
+  </script>
+  <aside class="widget widget_eu_cookie_law_widget clearfix" id="eu_cookie_law_widget-2" style="display: block; opacity: 0;">
+   <div class="hide-on-button negative" data-consent-expiration="180" data-hide-timeout="30" id="eu-cookie-law">
+    <form method="post">
+     <input class="accept" type="submit" value="Close and accept"/>
+    </form>
+    Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+    <br/>
+    To find out more, including how to control cookies, see here:
+    <a href="https://space-facts.com/privacy-policy/">
+     Cookie Policy
+    </a>
+   </div>
+  </aside>
+  <script async="async" defer="defer" src="https://stats.wp.com/e-202009.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.2.3',blog:'37359843',post:'7',tz:'0',srv:'space-facts.com'} ]);
+	_stq.push([ 'clickTrackerInit', '37359843', '7' ]);
+  </script>
+ </body>
+ <iframe data-ad-client="ca-pub-4251889121233823" id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20200224/r20190131/zrt_lookup.html#" style="display: none;">
+ </iframe>
+</html>

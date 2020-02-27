@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <title>Mission to Mars</title>
+    <!-- Bring in our bootstrap stylesheet -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/style.css">
+  </head>
+  
+  <body>
+    <!-- set the page margins -->
+    <div class="container 20px">  
+
+      <div class="jumbotron jumbotron-fluid">
+        <h1 style="text-align:center;">Mission to Mars</h1>
+        <div style="text-align:center;">
+          <a href="/" class="btn btn-primary btn-lg active role=button">Scrape New Data</a>
+        </div>
+      <!-- end of jumbtron -->
+      </div>
+
+      <h3>Latest Mars News</h3>
+      <!-- INSERT: NASA Mars News titles -->
+      <b>{{Mars_data["nasa_mars_news_title"]}}</b>
+      <p style="font-size:80%;">
+        <!-- INSERT: NASA Mars News paragraphs -->
+        {{Mars_data["nasa_mars_news_p"]}}
+      </p>
+
+      <div class="container px-0">
+        <div class="row">
+          <div class="col-md-8">
+            <!-- INSERT: JPL Mars Space Images - Featured Image -->
+            <h3>Featured News Image</h3>
+            <img src={{Mars_data["jpl_mars_site_link"]}} alt="Featured Mars Image">
+          </div>
+
+          <div class="col-md-4">
+            <h5>
+              Current Weather on Mars
+            </h5>
+            <p style="font-size:80%;">
+              <!-- INSERT: Mars Weather -->
+              {{Mars_data["twitter_mars_weather"]}}
+            </p>
+            <h5>Mars Facts</h5>
+            <div style="font-size:80%;">
+              <!-- INSERT: Mars Facts -->
+              {{Mars_data["mars_facts_html"]}}
+            </div>    
+          </div>
+        </div>
+      </div>
+
+      <h3 style="text-align:center; margin-top: 30px; 
+                margin-bottom: 30px;">
+        Mars Hemispheres
+      </h3>
+
+      <div class="container px-0">
+        <div class="row">
+
+          <div class="card col-md-6">
+            <!-- INSERT: 1st Mars Hemispheres img_url -->
+            <img href={{Mars_data["hemisphere_image_urls"][0]["img_url"]}} alt="Fig1" 
+              class="image-fluid card-img-top">
+            <div class="card-body">
+                <!-- INSERT: 1st Mars Hemispheres title -->
+                <h5 class="card-title">{{Mars_data["hemisphere_image_urls"][0]["title"]}}</h5>
+            </div>
+          </div>
+
+          <div class="card col-md-6">
+            <!-- INSERT: 2nd Mars Hemispheres img_url -->
+            <img href="{{Mars_data["hemisphere_image_urls"][1]["img_url"]}}" alt="Fig2" 
+              class="image-fluid card-img-top">
+            <div class="card-body">
+                <!-- INSERT: 2nd Mars Hemispheres title -->
+                <h5 class="card-title">{{Mars_data["hemisphere_image_urls"][1]["title"]}}</h5>
+            </div>
+          </div>
+
+          <div class="card col-md-6">
+            <!-- INSERT: 3rd Mars Hemispheres img_url -->
+            <img href={{Mars_data["hemisphere_image_urls"][2]["img_url"]}} alt="Fig3" 
+              class="image-fluid card-img-top">
+            <div class="card-body">
+                <!-- INSERT: 3rd Mars Hemispheres title -->
+                <h5 class="card-title">{{Mars_data["hemisphere_image_urls"][2]["title"]}}</h5>
+            </div>
+          </div>
+
+          <div class="card col-md-6">
+            <!-- INSERT: 4th Mars Hemispheres img_url -->
+            <img href={{Mars_data["hemisphere_image_urls"][3]["img_url"]}} alt="Fig4" 
+              class="image-fluid card-img-top">
+            <div class="card-body">
+                <!-- INSERT: 4th Mars Hemispheres title -->
+                <h5 class="card-title">{{Mars_data["hemisphere_image_urls"][3]["title"]}}</h5>
+            </div>
+          </div>
+
+        <!-- end of row -->
+        </div>
+
+        <!-- end of container -->
+      </div>
+ 
+
+    <!-- end of page margin setting container (the first after <body>) -->
+    </div>
+
+
+
+
+    <!-- The bootstrap documentation says that many components require the following lines. -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  </body>
+
+</html>
